@@ -1,0 +1,17 @@
+Id,Name,Type,Category,Company,Model,Year,Price,BHP,Condition,Image
+PKR01,Escalade ESV Premium,Car,city,Cadillac,Luxury,2016,10375610,38,New,image/car.jpg
+PKR02,745Le,Car,adv,BMW,7 series,2008,49996000,186,New,image/car.jpg
+PKR03,Duke 390,Bike,Sport,KTM,Duke,2012,750900,43,New,image/bike.jpg
+PKR04,310 GS,Bike,Sport,BMW,GS,2011,590000,34,used,image/bike.jpg
+PKR05,Classic,Bike,adv,Jawa,Classic,2002,448500,27,used,image/bike.jpg
+PKR06,Swift ZXI,Car,city,Suzuki,Swift ,2010,330900,81,New,image/car.jpg
+PKR07, TNT 302,Bike,Sport,Benelli,TNT,2005,960000,31,New,image/bike.jpg
+PKR08,RM 250,Bike,adv,CrossFire,RM,2013,450900,30,used,image/bike.jpg
+PKR09,Xpulse 200s,Bike,adv,Hero,Xpulse,2014,322000,18,New,image/bike.jpg
+PKR10,I20,Car,city,Hyundai,I20,2016,3696000,82,New,image/car.jpg
+PKR11,Kicks XL,Car,city,Nissan,Kicks,2012,4899000,104,new,image/car.jpg
+PKR12,Octavia 1.4 Petrol,Car,adv,Skoda,Octavia,2014,3600000,148,used,image/car.jpg
+PKR13,Jazz VMT,car,city,Honda,Jazz series,2007,1930300,80,used,image/car.jpg
+PKR14,Zest XM,Car,city,Tata,Zest,2001,3295000,89,New,image/car.jpg
+PKR15,Vitpilen 250,Bike,Sport,Husqvarna,Vitpilen,2004,354900,30,used,image/bike.jpg
+PKR16,CB UNICORN 160,Bike,city,Honda,CB,2008,274900,14,New,image/bike.jpg

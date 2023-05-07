@@ -1,0 +1,16 @@
+Id,Name,Type,Category,Company,Model,Year,Price,HP,Condition,Image
+BTR01,X-Torque 250,Bike,Sport,Motorhead,X series,2011,385000,20,New,image/bike.jpg
+BTR02,CT5 Sedan,Car,sport,Cadillac,CT series,2014,161514789,18,new,image/car.jpg
+BTR03,Magnite XE Base,car,adv,Nissan,Magnite,2012,1525200,71,used,image/car.jpg
+BTR04,CB Hornet 2.0,Bike,city,Honda,CB series,2015,498900,17,New,image/bike.jpg
+BTR05,MT15,Bike,Sport,Yamaha,MT series,2010,202000,19,used,image/bike.jpg
+BTR06,Rush Mid MT,Car,adv,Toyota,Rush,2016,7304000,104,New,image/car.jpg
+BTR07,Mustang,Car,Sport,Ford,Mustang,2002,8500000,200,used,image/car.jpg
+BTR08,Jazz VCVT,car,city,Honda,Jazz series,2009,4630300,89,New,image/car.jpg
+BTR09,Vitara Brezza Petrol VXI ,car,city,Suzuki,Vitara Brezza,2012,4169300,104,new,image/car.jpg
+BTR10,Vitpilen 250,Bike,Sport,Husqvarna,Vitpilen,2004,354900,30,used,image/bike.jpg
+BTR11,Classic,Bike,adv,Jawa,Classic,2002,448500,27,used,image/bike.jpg
+BTR12,812 GTS,Car,Sport,Ferrari,GTS series,2012,44011330,200,new,image/car.jpg
+BTR13,Sonet THE,car,city,KIA,Sonet,2001,2015900,82,used,image/car.jpg
+BTR14,Bentagya,Car,adv,Bentley,S Series,2016,26156200,41,New,image/car.jpg
+BTR15,MT15,Bike,Sport,Yamaha,MT series,2010,202000,19,used,image/bike.jpg

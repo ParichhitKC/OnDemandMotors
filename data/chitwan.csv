@@ -1,0 +1,18 @@
+Id,Name,Type,Category,Company,Model,Year,Price,BHP,Condition,Image
+CTN01,Zest XT,Car,city,TATA,Zest,2004,3555000,89,New,image/car.jpg
+CTN02,XV Crosstrek KCIB,Car,city,Subaru, XV Crosstrek ,2006,6025000,148,used,image/car.jpg
+CTN03,Rio EX N/B,Car,city,KIA,Rio,2008,4100000,138,new,image/car.jpg
+CTN04,Polo HL 1.0,Car,adv,Volkswagen,Polo,2012,1525000,75,used,image/car.jpg
+CTN05,MT15,Bike,Sport,Yamaha,MT series,2010,202000,19,used,image/bike.jpg
+CTN06,XR 190L,Bike,adv,Honda,XR,2015,649000,15,new,image/bike.jpg
+CTN07,Meteor Fireball 350,Bike,adv,Royal Enfield,Meteor,2012,450000,20,used,image/bike.jpg
+CTN08,Duster RxE,car,adv,Renault,Duster,2011,3990000,105,New,image/car.jpg
+CTN09,GR7 250,bike ,adv,CrossFire,GR,2012,545000,31,New,image/car.jpg
+CTN10,Tekken 250 ,bike,city,Motorhead,Tekken,2014,395000,17,new,image/bike.jpg
+CTN11,Mustang,Car,Sport,Ford,Mustang,2002,8500000,200,used,image/car.jpg
+CTN12,CT5 Sedan,Car,sport,Cadillac,CT series,2014,161514780,18,new,image/car.jpg
+CTN13,Vitpilen 250,Bike,Sport,Husqvarna,Vitpilen,2004,354900,30,used,image/bike.jpg
+CTN14,812 GTS,Car,Sport,Ferrari,GTS series,2012,44011330,200,new,image/car.jpg
+CTN15,CB Hornet 2.0,Bike,city,Honda,CB series,2015,498900,17,New,image/bike.jpg
+CTN16,FZ16 FI,Bike,Sport,Yamaha,FZ series,2008,150900,13,used,image/bike.jpg
+CTN17,Bentagya,Car,adv,Bentley,S Series,2016,26156200,41,New,image/car.jpg

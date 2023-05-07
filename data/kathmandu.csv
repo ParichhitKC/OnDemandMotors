@@ -1,0 +1,21 @@
+Id,Name,Type,Category,Company,Model,Year,Price,BHP,Condition,Image
+KTM01,Dominar,Bike,Sport,Bajaj,DMR,2013,539900,35,New,image/bike.jpg
+KTM02,C5 Aircross,Car,adv,Citroen,C5 series,2015,13500000,175,New,image/car.jpg
+KTM03,Bentagya,Car,adv,Bentley,S Series,2016,26156200,41,New,image/car.jpg
+KTM04,R15 V3,Bike,Sport,Yamaha,R Series,2012,509900,18,New,image/bike.jpg
+KTM05,Street 750,Bike,city,Harley-Davidson,Street,2014,1290000,47,used,image/bike.jpg
+KTM06,390 Adventure,Bike,adv,KTM,Adventure,2016,1089900,42,New,image/bike.jpg
+KTM07,Duke 390,Bike,Sport,KTM,Duke,2012,450900,43,used,image/bike.jpg
+KTM08,Vantage Coupe,Car,city,Aston Martin,Vantage,2012,70205800,39,used,image/car.jpg
+KTM09,CT5 Sedan,Car,sport,Cadillac,CT series,2014,161514789,18,new,image/car.jpg
+KTM10,Defender 110,Car,adv,Land Rover,Series 110,2008,41800000,196,New,image/car.jpg
+KTM11,X-2,car,sport,BMW,X Series,2004,25090900,134,New,image/car.jpg
+KTM12,Jazz VCVT,car,city,Honda,Jazz series,2009,4630300,89,New,image/car.jpg
+KTM13,NK 250,Bike,sport,CF Moto,NK series,2013,325000,27,used,image/bike.jpg
+KTM14,swift VXI,Car,city,Suzuki,Swift ,2010,300900,81,New,image/car.jpg
+KTM15,CB Hornet 2.0,Bike,city,Honda,CB series,2015,498900,17,New,image/bike.jpg
+KTM16,MT15,Bike,Sport,Yamaha,MT series,2010,202000,19,used,image/bike.jpg
+KTM17,Xpulse 200,Bike,adv,Hero,Xpulse,2014,403500,18,New,image/bike.jpg
+KTM18,City VCVT,car,city,Honda,City Series,2011,2725000,120,used,image/car.jpg
+KTM19,Evoque 2.0 S,car,adv,Land Rover,RR Evoque,2007,16090000,177,used,image/car.jpg
+KTM20,GR7 250,Bike ,adv,CrossFire,GR,2012,545000,31,New,image/bike.jpg
